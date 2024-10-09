@@ -1,0 +1,109 @@
+[
+  {
+    "id": 1,
+    "code": "S001",
+    "name": "Nguyễn Phúc Mạnh",
+    "birthday": "2002-06-28T00:00:00.000Z",
+    "gender": "MALE",
+    "address": "Hà Nội",
+    "phoneNumber": "0999999999",
+    "class_id": 1,
+    "deleted": 0
+  },
+  {
+    "id": 2,
+    "code": "S001",
+    "name": "Nguyễn Phúc Mạnh",
+    "birthday": "2002-06-28T00:00:00.000Z",
+    "gender": "MALE",
+    "address": "Hà Nội",
+    "phoneNumber": "0999999999",
+    "class_id": 1,
+    "deleted": 0
+  },
+  {
+    "id": 3,
+    "code": "S001",
+    "name": "Nguyễn Phúc Mạnh",
+    "birthday": "2002-06-28T00:00:00.000Z",
+    "gender": "MALE",
+    "address": "Hà Nội",
+    "phoneNumber": "0999999999",
+    "class_id": 1,
+    "deleted": 0
+  },
+  {
+    "id": 4,
+    "code": "S001",
+    "name": "Nguyễn Phúc Mạnh",
+    "birthday": "2002-06-28T00:00:00.000Z",
+    "gender": "MALE",
+    "address": "Hà Nội",
+    "phoneNumber": "0999999999",
+    "class_id": 1,
+    "deleted": 0
+  },
+  {
+    "id": 4,
+    "code": "S001",
+    "name": "Nguyễn Phúc Mạnh",
+    "birthday": "2002-06-28T00:00:00.000Z",
+    "gender": "MALE",
+    "address": "Hà Nội",
+    "phoneNumber": "0999999999",
+    "class_id": 2,
+    "deleted": 0
+  },
+  {
+    "id": 5,
+    "code": "S001",
+    "name": "Nguyễn Phúc Mạnh",
+    "birthday": "2002-06-28T00:00:00.000Z",
+    "gender": "MALE",
+    "address": "Hà Nội",
+    "phoneNumber": "0999999999",
+    "class_id": 2,
+    "deleted": 0
+  },
+  {
+    "id": 6,
+    "code": "S001",
+    "name": "Nguyễn Phúc Mạnh",
+    "birthday": "2002-06-28T00:00:00.000Z",
+    "gender": "MALE",
+    "address": "Hà Nội",
+    "phoneNumber": "0999999999",
+    "class_id": 2,
+    "deleted": 0
+  },
+  {
+    "id": 11,
+    "code": "S011",
+    "name": "jonh",
+    "birthday": "2002-06-28T00:00:00.000Z",
+    "gender": "MALE",
+    "address": "Hà Nội",
+    "phoneNumber": "0999999999",
+    "deleted": 0
+  },
+  {
+    "id": 12,
+    "code": "S012",
+    "name": "Nguyễn Phúc san",
+    "birthday": "2002-06-28T00:00:00.000Z",
+    "gender": "Nam",
+    "address": "Hà Nội",
+    "phoneNumber": "0366665266",
+    "deleted": 0
+  },
+  {
+    "id": 13,
+    "code": "S013",
+    "name": "jonh",
+    "birthday": "2002-06-28T00:00:00.000Z",
+    "gender": "MALE",
+    "address": "Hà Nội",
+    "phoneNumber": "0999999999",
+    "deleted": 0
+  }
+]

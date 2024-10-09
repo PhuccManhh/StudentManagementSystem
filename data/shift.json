@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Ca 1",
+        "check_in": "7h15",
+        "check_out": "9h15",
+        "deleted": 0
+    },
+    {
+        "id": 2,
+        "name": "Ca 2",
+        "check_in": "9h30",
+        "check_out": "11h30",
+        "deleted": 0
+    },
+    {
+        "id": 3,
+        "name": "Ca 3",
+        "check_in": "12h",
+        "check_out": "14h",
+        "deleted": 0
+    },
+    {
+        "id": 4,
+        "name": "Ca 4",
+        "check_in": "14h15",
+        "check_out": "16h15",
+        "deleted": 0
+    },
+    {
+        "id": 5,
+        "name": "Ca 5",
+        "check_in": "16h30",
+        "check_out": "18h30",
+        "deleted": 0
+    }
+]
